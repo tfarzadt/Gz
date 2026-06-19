@@ -1,0 +1,6 @@
+{
+  "name": "SAGE Engine Modernization Portal",
+  "description": "An interactive engineering visualizer, patch generator, and simulation suite for modernizing the EA Command & Conquer Generals SAGE engine for VS2022 and modern Windows systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
